@@ -1,508 +1,231 @@
-
 <div align="center">
 
-![Bloom Soft Ecuador](https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:C2185B,100:831843&height=230&section=header&text=BLOOM%20SOFT%20ECUADOR&fontSize=43&fontColor=ffffff&fontAlignY=37&desc=Sistema%20Integrado%20de%20Gestion%20Floricola&descAlignY=59&descSize=21&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:9D174D,100:F472B6&height=240&section=header&text=BLOOM%20SOFT%20ECUADOR&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Sistema%20Integrado%20de%20Gestion%20Floricola&descAlignY=60&descSize=20&animation=fadeIn" width="100%" />
+
+<br>
 
 # 🌹 BLOOM SOFT ECUADOR
 
-### 🌸 Cultivamos innovación, cosechamos tecnología 🌸
+### *Sistema ERP para la gestión integral de la producción florícola*
 
-**Sistema ERP para la gestión integral y trazabilidad de la producción florícola**
+<img src="https://img.shields.io/badge/PROYECTO-Acad%C3%A9mico-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SISTEMA-ERP-9D174D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SECTOR-Flor%C3%ADcola-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESTADO-En%20desarrollo-F59E0B?style=for-the-badge" />
 
-[![ERP](https://img.shields.io/badge/SISTEMA-ERP-C2185B?style=for-the-badge&logo=databricks&logoColor=white)](#-nuestro-sistema-erp)
-[![Ecuador](https://img.shields.io/badge/ECUADOR-Florícola-2E7D32?style=for-the-badge)](#-sobre-el-proyecto)
-[![Estado](https://img.shields.io/badge/ESTADO-En%20Desarrollo-F59E0B?style=for-the-badge)](#-hoja-de-ruta)
-[![Proyecto](https://img.shields.io/badge/PROYECTO-Académico-2563EB?style=for-the-badge)](#-información-académica)
+<br><br>
 
-<br>
+<img src="https://images.unsplash.com/photo-1468327768560-75b778cbb551?auto=format&fit=crop&w=1400&q=80" alt="Rosas" width="100%" />
 
-*Digitalizando la industria de las rosas, conectando procesos y transformando datos en decisiones inteligentes.*
+<br><br>
 
----
-
-**[🌹 Sobre el proyecto](#-sobre-el-proyecto) • [🧩 Módulos](#-módulos-del-sistema) • [🏗️ Arquitectura](#️-arquitectura-del-sistema) • [👨‍💻 Equipo](#-nuestro-equipo)**
+> **Cultivamos innovación, conectamos procesos y transformamos datos en decisiones.**
 
 </div>
 
-<br>
+---
 
-# 🌹 Sobre el proyecto
+## 🌸 SOBRE EL PROYECTO
 
-**BLOOM SOFT ECUADOR** es una propuesta tecnológica enfocada en el desarrollo de un **Sistema de Planificación de Recursos Empresariales (ERP)** para empresas dedicadas a la producción, clasificación y comercialización de rosas.
+**BLOOM SOFT ECUADOR** es una propuesta de **sistema ERP** orientada a empresas florícolas, diseñada para integrar en una sola plataforma los procesos de:
 
-Nuestro propósito es transformar la gestión florícola tradicional mediante una plataforma digital que integre los procesos operativos y administrativos en un solo lugar.
+- 🌱 Producción y postcosecha  
+- 📦 Inventarios y suministros  
+- 💰 Administración y costos  
+- 📊 Reportes gerenciales  
+- 🔎 Trazabilidad de operaciones  
 
-El proyecto se desarrolla sobre el caso de una empresa florícola ficticia ecuatoriana que comercializa rosas para mercados nacionales e internacionales.
+El objetivo es reemplazar los registros manuales por una solución digital centralizada que mejore el control, la organización y la toma de decisiones.
 
-### 💡 Nuestra propuesta de valor
+---
 
-> 🌱 **De registros manuales a decisiones inteligentes.**
->
-> Una plataforma centralizada que conecta producción, inventarios, trabajadores y costos para mejorar la eficiencia, la trazabilidad y el control empresarial.
-
-<br>
+## ✨ PROPUESTA DE VALOR
 
 <div align="center">
 
-### 🌷 El futuro de la gestión florícola es digital
-
-<img src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=1200&q=85" width="85%" alt="Flores y naturaleza">
-
-</div>
-
----
-
-# 🎯 Objetivos del proyecto
-
-### 🚀 Objetivo general
-
-Desarrollar un prototipo funcional de un sistema ERP que permita integrar, administrar y controlar los procesos de producción, inventarios y administración de una empresa florícola, facilitando la trazabilidad, la eficiencia operativa y la toma de decisiones gerenciales.
-
-### 🎯 Objetivos específicos
-
-- 🌹 Digitalizar el registro de cosecha y clasificación de rosas.
-- 🌱 Controlar la producción por bloque, variedad y trabajador.
-- 📦 Administrar las entradas, salidas y existencias de insumos.
-- 💰 Integrar información de producción y gastos.
-- 👷 Registrar actividades y productividad del personal.
-- 📊 Generar reportes operativos y gerenciales.
-- 🔍 Facilitar la trazabilidad de insumos y actividades.
-- 🧠 Apoyar las decisiones empresariales mediante información organizada.
-
----
-
-# 🚨 ¿Qué problemas buscamos solucionar?
-
-La industria florícola depende de numerosos procesos que requieren información precisa y actualizada.
-
-Cuando esta información se administra manualmente, aparecen problemas que afectan la productividad y la rentabilidad.
-
-| 🚨 Problemática | 📋 Situación actual | ✅ Solución propuesta |
-|:---|:---|:---|
-| 📄 Pérdida de información | Los registros físicos pueden deteriorarse por la humedad de los invernaderos. | Digitalización y almacenamiento centralizado. |
-| ⏰ Retrasos en postcosecha | La clasificación manual retrasa el procesamiento y empaquetado. | Registro digital de clasificación. |
-| 📦 Descontrol de inventarios | No existe información inmediata del consumo de productos agrícolas. | Control digital de entradas, salidas y consumo. |
-| 💸 Costos desconocidos | Dificultad para determinar la rentabilidad de cada variedad. | Integración de costos y producción. |
-| 🔍 Trazabilidad limitada | Los reportes fitosanitarios requieren procesos manuales. | Historial digital de operaciones y tratamientos. |
-
-<div align="center">
-
-### 🌟 Nuestra solución
-
-**UN SISTEMA • TRES ÁREAS • INFORMACIÓN CENTRALIZADA**
+| 🌹 Integración | 📊 Control | 🔍 Trazabilidad | 🚀 Eficiencia |
+|:--:|:--:|:--:|:--:|
+| Un solo sistema para toda la operación | Datos organizados y disponibles | Seguimiento de procesos e insumos | Menos tareas manuales |
 
 </div>
 
 ---
 
-# 🏢 Nuestro sistema ERP
+## 🎯 OBJETIVO GENERAL
 
-Un **ERP (Enterprise Resource Planning)** es un sistema de información que integra diferentes áreas de una organización mediante procesos conectados y una base de datos compartida.
-
-BLOOM SOFT ECUADOR busca implementar este concepto en el sector florícola.
-
-<div align="center">
-
-| 🌱 PRODUCCIÓN | 📦 INVENTARIOS | 💰 ADMINISTRACIÓN |
-|:---:|:---:|:---:|
-| Cosecha de rosas | Registro de insumos | Gestión de trabajadores |
-| Control por bloques | Entradas y salidas | Costos de producción |
-| Clasificación | Control de existencias | Análisis de rentabilidad |
-| Reportes diarios | Alertas de stock | Reportes gerenciales |
-
-</div>
-
-### 🔗 ¿Cómo se relacionan los procesos?
-
-Cuando un trabajador registra una cosecha, la información puede utilizarse para conocer la producción del bloque, registrar su actividad y calcular los costos correspondientes.
-
-Cuando se utiliza un fungicida, el sistema debe registrar el consumo, actualizar el inventario y relacionar el tratamiento con el bloque correspondiente.
-
-**Esta integración es lo que convierte nuestra solución en un ERP y no solamente en un sistema de registros.**
+Desarrollar un prototipo funcional de un sistema ERP que permita integrar, administrar y controlar los procesos de producción, inventarios y administración de una empresa florícola, mejorando la eficiencia operativa y la toma de decisiones.
 
 ---
 
-# 🧩 Módulos del sistema
+## 🧩 MÓDULOS DEL SISTEMA
 
-## 🌱 Módulo 01 — Producción y postcosecha
+<table>
+<tr>
+<td width="33%" valign="top">
 
-![Producción](https://img.shields.io/badge/MÓDULO-PRODUCCIÓN-2E7D32?style=for-the-badge)
+### 🌱 Producción y Postcosecha
+- Registro de tallos cosechados  
+- Producción por bloque y variedad  
+- Clasificación de rosas  
+- Consulta de disponibilidad  
+- Reportes diarios  
 
-Este módulo se encargará de registrar y controlar las operaciones relacionadas con la producción de rosas.
+</td>
+<td width="33%" valign="top">
 
-**⚙️ Funcionalidades previstas**
+### 📦 Inventarios y Suministros
+- Registro de fertilizantes y fungicidas  
+- Entradas y salidas de inventario  
+- Consumo por bloque  
+- Alertas de stock mínimo  
+- Historial de movimientos  
 
-- ✅ Registro de tallos cosechados por trabajador.
-- ✅ Control de producción por bloque.
-- ✅ Gestión de variedades de rosas.
-- ✅ Registro de clasificación.
-- ✅ Consulta de rosas disponibles.
-- ✅ Reportes diarios de producción.
+</td>
+<td width="33%" valign="top">
 
-**📊 Información generada**
+### 💰 Administración y Costos
+- Registro de actividades laborales  
+- Cálculo de trabajo a destajo  
+- Costos de mano de obra e insumos  
+- Rentabilidad por variedad  
+- Reportes gerenciales  
 
-Cantidad de rosas cosechadas, producción por trabajador, rendimiento por bloque y disponibilidad de rosas.
-
----
-
-## 📦 Módulo 02 — Inventarios y suministros
-
-![Inventarios](https://img.shields.io/badge/MÓDULO-INVENTARIOS-F59E0B?style=for-the-badge)
-
-Permitirá administrar los suministros necesarios para el cultivo y mantenimiento de las rosas.
-
-**⚙️ Funcionalidades previstas**
-
-- ✅ Registro de fertilizantes y fungicidas.
-- ✅ Control de entradas al inventario.
-- ✅ Control de salidas del inventario.
-- ✅ Registro del consumo por bloque.
-- ✅ Alertas de existencias mínimas.
-- ✅ Historial de movimientos de productos.
-
-**📊 Información generada**
-
-Disponibilidad de suministros, consumo de productos químicos y movimientos de inventario.
+</td>
+</tr>
+</table>
 
 ---
 
-## 💰 Módulo 03 — Administración y costos
+## 🚨 PROBLEMÁTICAS IDENTIFICADAS
 
-![Administración](https://img.shields.io/badge/MÓDULO-ADMINISTRACIÓN-C2185B?style=for-the-badge)
-
-Este módulo permitirá relacionar la información operativa con los costos y resultados de la empresa.
-
-**⚙️ Funcionalidades previstas**
-
-- ✅ Registro de actividades de trabajadores.
-- ✅ Control de producción individual.
-- ✅ Cálculo de valores por trabajo a destajo.
-- ✅ Consulta de costos de mano de obra.
-- ✅ Control de costos de insumos.
-- ✅ Análisis de rentabilidad por variedad.
-- ✅ Generación de reportes gerenciales.
-
-**📊 Información generada**
-
-Costos operativos, productividad del personal y análisis económico de la producción.
+| Problema | Descripción |
+|---|---|
+| 📄 Pérdida de información | Los registros físicos pueden deteriorarse en ambientes húmedos. |
+| ⏱️ Retrasos en postcosecha | El proceso manual retrasa clasificación y empaquetado. |
+| 📦 Falta de control de inventario | No existe un registro digital inmediato del consumo de insumos. |
+| 💸 Desconocimiento de costos | Se dificulta conocer la rentabilidad real por variedad. |
+| 🔎 Problemas de trazabilidad | El seguimiento de tratamientos y procesos es manual. |
 
 ---
 
-# 🏗️ Arquitectura del sistema
-
-### 🔄 Diagrama conceptual de integración
+## 🏗️ ARQUITECTURA CONCEPTUAL
 
 ```mermaid
 flowchart TB
-    A["🌹 BLOOM SOFT ECUADOR<br/>SISTEMA ERP"]
+    A["BLOOM SOFT ECUADOR<br/>ERP FLORÍCOLA"]
 
-    A --> B["🌱 PRODUCCIÓN<br/>Y POSTCOSECHA"]
-    A --> C["📦 INVENTARIOS<br/>Y SUMINISTROS"]
-    A --> D["💰 ADMINISTRACIÓN<br/>Y COSTOS"]
+    A --> B["Producción y Postcosecha"]
+    A --> C["Inventarios y Suministros"]
+    A --> D["Administración y Costos"]
 
-    B <--> E[("🗄️ BASE DE DATOS<br/>CENTRALIZADA")]
-    C <--> E
-    D <--> E
+    B --> E[("Base de Datos Centralizada")]
+    C --> E
+    D --> E
 
-    E --> F["📊 REPORTES<br/>GERENCIALES"]
-    E --> G["🔍 TRAZABILIDAD<br/>DE OPERACIONES"]
-    E --> H["🧠 ANÁLISIS<br/>DE DECISIONES"]
+    E --> F["Reportes"]
+    E --> G["Trazabilidad"]
+    E --> H["Apoyo a Decisiones"]
 
-    style A fill:#9D174D,color:#FFFFFF,stroke:#831843,stroke-width:3px
-    style B fill:#DCFCE7,color:#14532D,stroke:#16A34A
-    style C fill:#FEF3C7,color:#78350F,stroke:#D97706
-    style D fill:#FCE7F3,color:#831843,stroke:#DB2777
-    style E fill:#1E3A8A,color:#FFFFFF,stroke:#2563EB,stroke-width:3px
-    style F fill:#DBEAFE,color:#1E40AF
-    style G fill:#CCFBF1,color:#115E59
-    style H fill:#F3E8FF,color:#6B21A8
-```
-
-**Nota:** El diagrama representa la arquitectura conceptual propuesta. La arquitectura técnica definitiva se establecerá durante el desarrollo del prototipo.
-
----
-
-# 🧠 Sistemas de información integrados
-
-BLOOM SOFT ECUADOR contempla la aplicación de cuatro conceptos fundamentales de los sistemas de información empresariales.
-
-| Sistema | Significado | Aplicación en BLOOM SOFT |
-|:---:|---|---|
-| 🔄 **TPS** | Transaction Processing System | Registro de cosechas, clasificación y movimientos de inventario. |
-| 📊 **MIS** | Management Information System | Generación de reportes de producción, costos y existencias. |
-| 🧠 **DSS** | Decision Support System | Análisis de rentabilidad, consumo de insumos y resultados productivos. |
-| 🏢 **ERP** | Enterprise Resource Planning | Integración de las áreas mediante información centralizada. |
-
-### 🔄 Ejemplo de funcionamiento
-
-```mermaid
-flowchart TD
-    A["👷 TRABAJADOR"] --> B["🌹 REGISTRAR COSECHA"]
-    B --> C["💾 ALMACENAR INFORMACIÓN"]
-    C --> D["📊 ACTUALIZAR PRODUCCIÓN"]
-    C --> E["💰 CALCULAR COSTOS"]
-    D --> F["📈 GENERAR REPORTES"]
-    E --> F
-    F --> G["🧠 APOYAR DECISIONES"]
-
-    style A fill:#FCE7F3,color:#831843
-    style B fill:#FBCFE8,color:#831843
-    style C fill:#9D174D,color:#FFFFFF
-    style D fill:#DCFCE7,color:#14532D
-    style E fill:#FEF3C7,color:#78350F
-    style F fill:#DBEAFE,color:#1E40AF
-    style G fill:#1E3A8A,color:#FFFFFF
-```
-
-### 📌 Flujo de consumo de inventario
-
-```mermaid
-flowchart LR
-    A["📦 Insumo disponible"] --> B["🌱 Consumo en bloque"]
-    B --> C["💾 Registrar movimiento"]
-    C --> D["📉 Actualizar existencias"]
-    D --> E["📊 Consultar historial"]
-
-    style A fill:#FEF3C7,color:#78350F
-    style B fill:#DCFCE7,color:#14532D
-    style C fill:#DBEAFE,color:#1E40AF
+    style A fill:#9D174D,color:#fff,stroke:#7A123A,stroke-width:2px
+    style B fill:#D8F3DC,color:#1B4332
+    style C fill:#FAEDCD,color:#7C4700
     style D fill:#FCE7F3,color:#831843
-    style E fill:#CCFBF1,color:#115E59
+    style E fill:#1D4ED8,color:#fff,stroke:#1E40AF,stroke-width:2px
+    style F fill:#DBEAFE,color:#1E3A8A
+    style G fill:#EDE9FE,color:#5B21B6
+    style H fill:#DCFCE7,color:#14532D
 ```
 
 ---
 
-# 👥 Usuarios del sistema
+## 🧠 SISTEMAS DE INFORMACIÓN RELACIONADOS
 
-El prototipo contempla accesos diferenciados según las responsabilidades de los usuarios.
-
-| 👤 Usuario | 🎯 Responsabilidad |
+| Sistema | Función en el proyecto |
 |---|---|
-| 👨‍🌾 Personal de producción | Registrar cosechas y actividades productivas. |
-| 🌹 Personal de postcosecha | Registrar la clasificación de rosas. |
-| 📦 Encargado de inventarios | Controlar existencias y movimientos de insumos. |
-| 🧑‍💼 Administración | Consultar costos y actividades laborales. |
-| 📊 Gerencia | Revisar reportes e indicadores para tomar decisiones. |
-
-Los permisos y las funciones concretas de cada rol se definirán durante el diseño del prototipo.
+| **TPS** | Registro de transacciones diarias: cosechas, clasificación y movimientos de inventario. |
+| **MIS** | Generación de reportes de producción, costos y existencias. |
+| **DSS** | Apoyo a decisiones mediante análisis de rentabilidad y consumo de insumos. |
+| **ERP** | Integración total de módulos y procesos mediante una base de datos compartida. |
 
 ---
 
-# 🎨 Diseño de la aplicación
-
-## 🖥️ Interfaces del prototipo
-
-La aplicación se plantea con una interfaz sencilla, organizada y accesible para los diferentes tipos de usuario.
-
-### 🏠 Pantalla principal
-
-Panel de acceso a los módulos de producción, inventarios y administración.
-
-### 🌱 Gestión de producción
-
-Formulario para registrar cosechas y consultar los resultados productivos.
-
-### 📦 Control de inventarios
-
-Interfaz para administrar insumos, movimientos y existencias.
-
-### 📊 Panel de reportes
-
-Visualización de información de producción, costos y recursos.
-
-> 📸 **Próximamente:** En esta sección se incorporarán las capturas reales de las interfaces desarrolladas.
-
----
-
-# 📈 Indicadores propuestos
-
-Los reportes del ERP permitirán consultar indicadores relevantes para la gestión empresarial.
+## 🌷 VISTA VISUAL DEL PROYECTO
 
 <div align="center">
 
-| 🌹 PRODUCCIÓN | 📦 INVENTARIO |
-|:---:|:---:|
-| Tallos cosechados | Insumos disponibles |
-| Rendimiento por bloque | Consumo de productos |
-| Producción por variedad | Movimientos registrados |
-
-| 👷 PERSONAL | 💰 COSTOS |
-|:---:|:---:|
-| Producción por trabajador | Costo de mano de obra |
-| Actividades realizadas | Costo de insumos |
-| Trabajo a destajo | Rentabilidad por variedad |
+<img src="https://images.unsplash.com/photo-1527061011665-3652c757a4d4?auto=format&fit=crop&w=1200&q=80" alt="Invernadero floral" width="49%" />
+<img src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=1200&q=80" alt="Cultivo de flores" width="49%" />
 
 </div>
 
 ---
 
-# 🌟 Beneficios esperados
+## 📈 BENEFICIOS ESPERADOS
 
-| Beneficio | Descripción |
-|---|---|
-| 🚀 Eficiencia | Menor dependencia de registros y procesos manuales. |
-| 🔐 Organización | Información centralizada y accesos diferenciados. |
-| 🌱 Productividad | Mejor seguimiento de las operaciones florícolas. |
-| 📦 Control | Seguimiento de suministros y existencias. |
-| 💰 Rentabilidad | Información para analizar costos de producción. |
-| 🔍 Trazabilidad | Registro histórico de actividades y tratamientos. |
-| 📊 Información | Reportes para supervisar las operaciones. |
-| 🧠 Decisiones | Análisis de información para apoyar a la gerencia. |
+- ✅ Información centralizada y organizada  
+- ✅ Mayor control de producción e inventarios  
+- ✅ Seguimiento detallado de procesos  
+- ✅ Mejor análisis de costos y rentabilidad  
+- ✅ Apoyo a la toma de decisiones gerenciales  
+- ✅ Reducción de errores por manejo manual  
 
 ---
 
-# 🗺️ Hoja de ruta
-
-### 🚧 Estado actual: Propuesta y planificación
-
-![Planificación](https://img.shields.io/badge/PLANIFICACIÓN-Definida-22C55E?style=flat-square)
-![Prototipo](https://img.shields.io/badge/PROTOTIPO-Por%20desarrollar-F59E0B?style=flat-square)
-![Año](https://img.shields.io/badge/AÑO-2026-2563EB?style=flat-square)
-
-### 📋 Etapas del proyecto
-
-- [x] Selección de la empresa y del sector.
-- [x] Definición del proyecto ERP.
-- [x] Identificación de problemáticas.
-- [x] Identificación de las áreas de negocio.
-- [x] Definición de funcionalidades propuestas.
-- [x] Identificación de TPS, MIS, DSS y ERP.
-- [ ] Diseño de interfaces.
-- [ ] Diseño de la base de datos.
-- [ ] Desarrollo del módulo de producción.
-- [ ] Desarrollo del módulo de inventarios.
-- [ ] Desarrollo del módulo administrativo.
-- [ ] Integración de módulos.
-- [ ] Generación de reportes.
-- [ ] Pruebas de funcionamiento.
-- [ ] Presentación del prototipo final.
-
-### 🔄 Ciclo de desarrollo previsto
-
-```mermaid
-flowchart LR
-    A["💡 Análisis"] --> B["🎨 Diseño"]
-    B --> C["💻 Desarrollo"]
-    C --> D["🧪 Pruebas"]
-    D --> E["🚀 Presentación"]
-
-    style A fill:#FCE7F3,color:#831843
-    style B fill:#F3E8FF,color:#6B21A8
-    style C fill:#DBEAFE,color:#1E40AF
-    style D fill:#FEF3C7,color:#78350F
-    style E fill:#DCFCE7,color:#14532D
-```
-
----
-
-# 🛠️ Tecnologías
-
-Las tecnologías de implementación se definirán durante el desarrollo del prototipo.
-
-El proyecto contempla los siguientes componentes técnicos:
-
-- 💻 Interfaz gráfica para los usuarios.
-- ⚙️ Lógica de negocio de los módulos ERP.
-- 🗄️ Base de datos compartida.
-- 🔐 Accesos diferenciados por usuario.
-- 📊 Generación y consulta de reportes.
-
-Esta sección se actualizará con los lenguajes, frameworks, herramientas y motores de bases de datos utilizados realmente.
-
----
-
-# 👨‍💻 Nuestro equipo
+## 👥 EQUIPO DE DESARROLLO
 
 <div align="center">
 
-### 🌹 Las personas detrás de BLOOM SOFT ECUADOR
-
-| 👨‍💻 Integrante | 🎓 Participación |
+| Integrante | Rol |
 |:---:|:---:|
-| **Matías Aguilera** | Equipo de desarrollo |
-| **Daniel Pillajo** | Equipo de desarrollo |
-| **Martin Villavicencio** | Equipo de desarrollo |
-
-<br>
-
-**Tres integrantes, una visión: desarrollar tecnología que aporte valor al sector florícola ecuatoriano.**
+| **Matías Aguilera** | Integrante del proyecto |
+| **Daniel Pillajo** | Integrante del proyecto |
+| **Martin Villavicencio** | Integrante del proyecto |
 
 </div>
 
 ---
 
-# 🎓 Información académica
+## 🎓 INFORMACIÓN ACADÉMICA
 
-| 📚 Información | 📋 Detalle |
+| Campo | Detalle |
 |---|---|
-| **Universidad** | Pontificia Universidad Católica del Ecuador |
 | **Asignatura** | Fundamentos de Sistemas de Información |
-| **Nombre del proyecto** | BLOOM SOFT ECUADOR |
-| **Tipo de proyecto** | Sistema Integrado de Gestión Florícola |
-| **Categoría** | ERP |
-| **Sector empresarial** | Florícola |
-| **País** | Ecuador 🇪🇨 |
-| **Año académico** | 2026 |
-| **Integrantes** | Matías Aguilera, Daniel Pillajo y Martin Villavicencio |
+| **Proyecto** | BLOOM SOFT ECUADOR |
+| **Tipo** | Sistema ERP |
+| **Sector** | Florícola |
+| **País** | Ecuador |
+| **Año** | 2026 |
 
 ---
 
-# 📚 Conceptos fundamentales
+## 🗺️ HOJA DE RUTA
 
-### 🌹 ERP — Enterprise Resource Planning
-
-Sistema que integra recursos, información y procesos de una organización.
-
-### 🔄 TPS — Transaction Processing System
-
-Sistema encargado del procesamiento de las transacciones operativas diarias.
-
-### 📊 MIS — Management Information System
-
-Sistema que proporciona información y reportes útiles para la administración.
-
-### 🧠 DSS — Decision Support System
-
-Sistema de apoyo a decisiones mediante análisis y comparación de información.
+- [x] Definición del proyecto  
+- [x] Identificación de problemáticas  
+- [x] Identificación de áreas del ERP  
+- [x] Definición del alcance funcional  
+- [ ] Diseño de interfaces  
+- [ ] Diseño de base de datos  
+- [ ] Desarrollo del prototipo  
+- [ ] Integración de módulos  
+- [ ] Pruebas del sistema  
+- [ ] Presentación final  
 
 ---
 
-# 💬 Nuestra visión del proyecto
+## 💚 VISIÓN DEL PROYECTO
 
-> 🌹 *Imaginamos una industria florícola donde cada rosa cosechada, cada recurso utilizado y cada actividad realizada pueda convertirse en información valiosa para construir empresas más eficientes, organizadas y competitivas.*
-
-BLOOM SOFT ECUADOR busca demostrar cómo la integración de los sistemas de información puede transformar la administración de una empresa florícola.
+> Crear una solución tecnológica que ayude a modernizar la industria florícola ecuatoriana mediante información centralizada, procesos más eficientes y una mejor capacidad de decisión.
 
 ---
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:831843,50:C2185B,100:14532D&height=130&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,50:9D174D,100:1B4332&height=140&section=footer" width="100%" />
 
-# 🌹 BLOOM SOFT ECUADOR 🌹
+### 🌹 BLOOM SOFT ECUADOR
+**Cultivando tecnología para el sector florícola**
 
-### 🌱 Cultivando innovación, cosechando el futuro.
-
-**Transformamos datos en información.**
-  
-**Transformamos información en decisiones.**
-  
-**Transformamos decisiones en oportunidades.**
-
-<br>
-
-![ERP](https://img.shields.io/badge/ERP-GESTIÓN%20INTEGRAL-C2185B?style=for-the-badge)
-![Innovación](https://img.shields.io/badge/TECNOLOGÍA-INNOVACIÓN-15803D?style=for-the-badge)
-![2026](https://img.shields.io/badge/ECUADOR-2026-1D4ED8?style=for-the-badge)
-
-<br>
-
-**⭐ Gracias por visitar nuestro proyecto ⭐**
-
-**© 2026 BLOOM SOFT ECUADOR**
-
-*Proyecto académico — Fundamentos de Sistemas de Información*
-
-**Hecho con 💚 y pasión por la tecnología.**
+<img src="https://img.shields.io/badge/Gracias%20por%20visitar%20el%20proyecto-❤-9D174D?style=for-the-badge" />
 
 </div>
